@@ -30,14 +30,6 @@ Encoder → AOT Blocks → Decoder
 - Continuous values instead of binary edges
 - L1 loss for stable training
 
----
-
-## 📊 Results (CelebA-HQ 256×256)
-
-- SSIM ↑ (+0.002 ~ +0.006)
-- PSNR ≈ unchanged
-- MAE slightly improved
-- FID comparable
 
 ---
 
